@@ -1,0 +1,10 @@
+Bot: Hello! I am an AI Chatbot.
+You: hi
+Bot: Hi! How are you?
+
+You: what is ai
+Bot: Artificial Intelligence is a technology
+Bot: that enables machines to think like humans.
+
+You: bye
+Bot: Goodbye!
